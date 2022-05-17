@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+*.lock
+out
+*.properties
+smells.json
